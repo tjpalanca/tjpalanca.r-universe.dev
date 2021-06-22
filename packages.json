@@ -2,5 +2,45 @@
     {
         "package": "tjart",
         "url": "https://github.com/tjpalanca/tjart"
+    },
+    {
+        "package": "web.scaling",
+        "url": "https://github.com/tjpalanca/web.scaling"
+    },
+    {
+        "package": "phlegis",
+        "url": "https://github.com/tjpalanca/phlegis"
+    },
+    {
+        "package": "notionR",
+        "url": "https://github.com/tjpalanca/notionR"
+    },
+    {
+        "package": "manila.traffic",
+        "url": "https://github.com/tjpalanca/manila.traffic"
+    },
+    {
+        "package": "dbtools",
+        "url": "https://github.com/tjpalanca/dbtools"
+    },
+    {
+        "package": "tjtools",
+        "url": "https://github.com/tjpalanca/tjtools"
+    },
+    {
+        "package": "tjdepot",
+        "url": "https://github.com/tjpalanca/tjdepot"
+    },
+    {
+        "package": "phdwh",
+        "url": "https://github.com/tjpalanca/phdwh"
+    },
+    {
+        "package": "watch.something",
+        "url": "https://github.com/tjpalanca/watch.something"
+    },
+    {
+        "package": "tjhome",
+        "url": "https://github.com/tjpalanca/tjhome"
     }
 ]
