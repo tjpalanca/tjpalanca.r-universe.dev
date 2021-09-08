@@ -6,5 +6,9 @@
     {
         "package": "webtools",
         "url": "https://github.com/tjpalanca/webtools"
+    },
+    {
+        "package": "bulma.R",
+        "url": "https://github.com/tjpalanca/bulma.R"
     }
 ]
