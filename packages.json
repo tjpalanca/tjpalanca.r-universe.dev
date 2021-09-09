@@ -10,5 +10,9 @@
     {
         "package": "bulma.R",
         "url": "https://github.com/tjpalanca/bulma.R"
+    },
+    {
+        "package": "settings.sync",
+        "url": "https://github.com/tjpalanca/settings.sync"
     }
 ]
