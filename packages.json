@@ -1,18 +1,18 @@
 [
     {
         "package": "tjart",
-        "url": "https://github.com/tjpalanca/tjart"
+        "url": "https://github.com/tjpalanca/tjart@v0.1.0"
     },
     {
         "package": "webtools",
-        "url": "https://github.com/tjpalanca/webtools"
+        "url": "https://github.com/tjpalanca/webtools@v0.4.2"
     },
     {
         "package": "bulma.R",
-        "url": "https://github.com/tjpalanca/bulma.R"
+        "url": "https://github.com/tjpalanca/bulma.R@v0.1.0"
     },
     {
         "package": "settings.sync",
-        "url": "https://github.com/tjpalanca/settings.sync"
+        "url": "https://github.com/tjpalanca/settings.sync@v0.1.0"
     }
 ]
