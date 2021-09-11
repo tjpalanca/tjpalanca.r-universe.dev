@@ -18,5 +18,10 @@
         "package": "settings.sync",
         "url": "https://github.com/tjpalanca/settings.sync",
         "branch" : "*release"
+    },
+    {
+        "package": "hotwire.R",
+        "url": "https://github.com/tjpalanca/hotwire.R",
+        "branch" : "*release"
     }
 ]
