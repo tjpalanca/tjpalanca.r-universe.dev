@@ -23,5 +23,10 @@
         "package": "hotwire.R",
         "url": "https://github.com/tjpalanca/hotwire.R",
         "branch" : "*release"
+    },
+    {
+        "package": "dbtools",
+        "url": "https://github.com/tjpalanca/dbtools",
+        "branch" : "*release"
     }
 ]
