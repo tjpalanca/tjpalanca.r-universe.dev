@@ -28,5 +28,10 @@
         "package": "dbtools",
         "url": "https://github.com/tjpalanca/dbtools",
         "branch" : "*release"
+    },
+    {
+        "package": "tailwind.R",
+        "url": "https://github.com/tjpalanca/tailwind.R",
+        "branch" : "*release"
     }
 ]
