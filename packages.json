@@ -5,33 +5,8 @@
         "branch" : "*release"
     },
     {
-        "package": "webtools",
-        "url": "https://github.com/tjpalanca/webtools",
-        "branch" : "*release"
-    },
-    {
-        "package": "bulma.R",
-        "url": "https://github.com/tjpalanca/bulma.R",
-        "branch" : "*release"
-    },
-    {
         "package": "settings.sync",
         "url": "https://github.com/tjpalanca/settings.sync",
-        "branch" : "*release"
-    },
-    {
-        "package": "hotwire.R",
-        "url": "https://github.com/tjpalanca/hotwire.R",
-        "branch" : "*release"
-    },
-    {
-        "package": "dbtools",
-        "url": "https://github.com/tjpalanca/dbtools",
-        "branch" : "*release"
-    },
-    {
-        "package": "tailwind.R",
-        "url": "https://github.com/tjpalanca/tailwind.R",
         "branch" : "*release"
     }
 ]
